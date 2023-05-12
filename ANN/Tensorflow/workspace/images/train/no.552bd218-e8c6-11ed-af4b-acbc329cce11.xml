@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.552bd218-e8c6-11ed-af4b-acbc329cce11.jpg</filename>
+	<path>/Users/ngocdu/Workspace/RealTimeObjectDetection/Tensorflow/labelImg/no/no.552bd218-e8c6-11ed-af4b-acbc329cce11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>349</ymin>
+			<xmax>839</xmax>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+</annotation>
